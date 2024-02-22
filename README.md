@@ -6,7 +6,6 @@ I'm a Graduate student at UMass Boston.
 I love to build and collaborate on new projects and ideas. I’m particularly passionate about web development projects and data-visualization based projects.
 Feel free to reach out:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-shembekar-470755192/) 
-[![Instagram]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png))](https://www.linkedin.com/in/varun-shembekar-470755192/) 
 
 
 <!--
