@@ -12,6 +12,8 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=varun2407&show_icons=true&theme=tokyonight"> 
 <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun2407&theme=tokyonight">
+<img height="200rem" src="https://github-readme-streak-stats.herokuapp.com/?user=varun2407&theme=tokyonight">
+
 
 
 <!--
